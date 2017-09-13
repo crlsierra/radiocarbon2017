@@ -1,0 +1,33 @@
+---
+layout: home-page
+---
+
+<h1>Welcome to Radiocarbon in the Earth System 2017 </h1>
+The short course Radiocarbon in the Earth System will take place between September 24 to 29 at the Max Planck Institute
+for Biogeochemistry in Jena, Germany. In this site we will post all information related to the course such as
+program, presentations, code, etc. 
+
+
+<h1> Program </h1>
+<ol class="post-card-box clearfix">
+  {% assign sorted_posts = paginator.posts | sort: 'date', 'first' %}
+  {% for post in sorted_posts %}
+  <li>
+    <div class="post-card">
+      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+      </a>
+
+      <div class="post-card-body">
+        {% for tag in post.tags %}
+        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
+        {% endfor %}
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+      </div>
+
+    </div>
+  </li>
+  {% endfor %}
+</ol>
+
+<h1>Organization and support </h1>
+

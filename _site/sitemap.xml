@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2017/08/24/icebreak.html</loc>
+<lastmod>2017-08-24T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/08/25/global-C-cycle.html</loc>
+<lastmod>2017-08-25T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/08/26/the-land-system.html</loc>
+<lastmod>2017-08-26T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/08/27/the-atmosphere-system.html</loc>
+<lastmod>2017-08-27T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/08/28/the-ocean-system.html</loc>
+<lastmod>2017-08-28T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/08/29/i-meet-the-sunset.html</loc>
+<lastmod>2017-08-29T12:32:20+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+</urlset>
