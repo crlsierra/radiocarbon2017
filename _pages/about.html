@@ -4,7 +4,10 @@ title: Instructors
 permalink: /instructors/
 ---
 
-{% for person in site.data.instructors %}
+<h2> Instructors for Radiocarbon in the Earth System 2017 </h2>
+
+{% assign sorted_names = site.data.instructors | sort: 'name', 'first' %}
+{% for person in sorted_names %}
 
 <div class="small-wrapper">
   <div class="about-container">
