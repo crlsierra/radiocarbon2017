@@ -8,4 +8,12 @@ tags: [Thursday, Sep 28]
 author: Adam Neilson # Add name author (optional)
 ---
 
-Brett Walker will give a lecture on the ocean. There will be a lecture on modeling radiocarbon in reservoir systems. 
+Brett Walker will give a lecture on the ocean. There will be a lecture on modeling radiocarbon in reservoir systems, accompanied with a practical lab. 
+
+## Day schedule
+
+{% assign thursday = site.data.radiocarbonCourseProgram | where:"Day", "Thursday" %}
+{% for block in thursday %}
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+

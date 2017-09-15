@@ -8,4 +8,13 @@ tags: [Tuesday, Sep 26]
 author: # Add name author (optional)
 ---
 
-Today we will study terrestrial ecosystems.
+Claudia Czimczik will give a lecture on the terrestrial biosphere, and Axel Steinhof will talk about the AMS method. 
+In the afternoon and in the evening students will present their own research. 
+
+## Day schedule
+
+{% assign tuesday = site.data.radiocarbonCourseProgram | where:"Day", "Tuesday" %}
+{% for block in tuesday %}
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+

@@ -21,7 +21,7 @@
 <lastmod>2017-08-28T12:32:20+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017/08/29/i-meet-the-sunset.html</loc>
+<loc>http://localhost:4000/2017/08/29/paleo.html</loc>
 <lastmod>2017-08-29T12:32:20+02:00</lastmod>
 </url>
 <url>
@@ -32,5 +32,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/logistics/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/program/</loc>
 </url>
 </urlset>

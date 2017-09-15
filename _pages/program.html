@@ -1,0 +1,41 @@
+---
+layout: home-page
+title: Program
+permalink: /program/
+---
+
+<h2> Detailed program for Radiocarbon in the Earth System 2017 </h2>
+
+<h3> Monday </h3>
+{% assign monday = site.data.radiocarbonCourseProgram | where:"Day", "Monday" %}
+{% for block in monday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+
+
+<h3> Tuesday </h3>
+{% assign tuesday = site.data.radiocarbonCourseProgram | where:"Day", "Tuesday" %}
+{% for block in tuesday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+
+
+<h3> Wednesday </h3>
+{% assign wednesday = site.data.radiocarbonCourseProgram | where:"Day", "Wednesday" %}
+{% for block in wednesday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+
+
+<h3> Thursday </h3>
+{% assign thursday = site.data.radiocarbonCourseProgram | where:"Day", "Thursday" %}
+{% for block in thursday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+
+
+<h3> Friday </h3>
+{% assign friday = site.data.radiocarbonCourseProgram | where:"Day", "Friday" %}
+{% for block in friday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
