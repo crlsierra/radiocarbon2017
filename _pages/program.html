@@ -6,6 +6,12 @@ permalink: /program/
 
 <h2> Detailed program for Radiocarbon in the Earth System 2017 </h2>
 
+<h3> Sunday </h3>
+{% assign sunday = site.data.radiocarbonCourseProgram | where:"Day", "Sunday" %}
+{% for block in sunday %} 
+<p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
+{% endfor %}
+
 <h3> Monday </h3>
 {% assign monday = site.data.radiocarbonCourseProgram | where:"Day", "Monday" %}
 {% for block in monday %} 
