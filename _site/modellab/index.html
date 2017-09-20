@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Logistics - Radiocarbon in the Earth System 2017</title>
+	<title>Modeling Lab - Radiocarbon in the Earth System 2017</title>
 	<meta name="description" content="">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -58,27 +58,44 @@
 </header> <!-- End Header -->
 
   <div class="content wrapper">
-    <h1>Logistics</h1>
+    <h1>Modeling radiocarbon in Earth system reservoirs: practical exercise</h1>
 
-<h1>Public transportation</h1>
+<p>The objective of this practical exercise is to get you familiar with computational tools in the <a href="ihttps://www.r-project.org/">R</a> programming language to model radiocarbon dynamics in reservoir models. 
+We will use the <a href="https://github.com/MPIBGC-TEE/SoilR-exp">SoilR</a> package for this purpose.
+Although this package and some of the examples are applied to soil organic matter models, the tools can actually be applied to any model that represents the movement of matter (e.g. carbon) across reservoirs. These type of models are generally known as compartment or reservoir models. </p>
 
-<p>The city of Jena has a very good public transportation system. Please consult the following link to plane your commute
-<a href="https://www.nahverkehr-jena.de/"><i class="fa fa-bus" aria-hidden="true"></i></a></p>
+<p>To complete this assignment, you only need to be familiar with the very basics of using R. No previous knowledge on the SoilR package is required. I also assume you already have R installed in your computer. </p>
 
-<p>The closest bus station to the Max Planck Institute for Biogeochemistry is <strong>Beutenberg Campus</strong>. When you get off the bus,
-walk in the direction oposite to the trafic lights. You will find Hans-Knöll-Strasse, go up the
-hill, and at the very end of the street you will find the building with the round tower where the Institute is located. 
-Here is a map of the campus:</p>
+<h2>Install the latest version of SoilR</h2>
 
-<p><img src="http://www.beutenberg.de/images/801ab24683/Campusplan_2013-500.gif" alt="Beutemberg"> </p>
+<p>Open R and type the following commands:</p>
 
-<h2>Internet access</h2>
+<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">install.packages</span><span class="p">(</span><span class="s2">"devtools"</span><span class="p">)</span><span class="w">
+</span><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s1">'MPIBGC-TEE/SoilR-exp/pkg'</span><span class="p">)</span></code></pre></figure>
 
-<p>Visitors to the Institute have two options to access the internet:</p>
+<p>This will install the latest version of SoilR in your computer, which we will need to complete part of the exercise. </p>
+
+<p>In case you get an error message telling you there are missing packages, install those packages first, and then try install SoilR again.</p>
+
+<h2>Run SoilR radiocarbon tutorials</h2>
+
+<p>I prepared three separate tutorials for this class that will get you familiar on how to run radiocarbon models. These tutorials reproduce some of the examples I presented during the lecture. Follow the tutorials in this order:</p>
 
 <ul>
-<li><strong>Eduroam</strong>: The Max Planck Institute for Biogeochemistry is a member of <a href="https://www.eduroam.org/">eduroam</a>. If your home institution is also a member, you only need to use your login credentials (usually your own email and password) to access and easily connect to the internet.</li>
-<li><strong>BGC_guest</strong>: To access this network you need to obtain a WPA-Key and a password. Please ask course organizers for this information. </li>
+<li><strong>Introduction to radiocarbon models</strong>: You find this tutorial in the following site: <a href="http://www.bgc-jena.mpg.de/TEE/basics/2015/12/29/Radiocarbon-models/">http://www.bgc-jena.mpg.de/TEE/basics/2015/12/29/Radiocarbon-models/</a></li>
+<li><strong>Multiple-pool radiocarbon models</strong>: You find this tutorial in the following site: <a href="http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Multiple-Pool-Radiocarbon/">http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Multiple-Pool-Radiocarbon/</a></li>
+<li><strong>Ages and transit times in linear models</strong>: You find this tutorial in the following site: <a href="http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Ages-Transit-Times/">http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Ages-Transit-Times/</a></li>
+</ul>
+
+<h2>Assignment</h2>
+
+<p>Now that you are already familiar with SoilR, and the concepts of pool models, ages, and transit times, work on the following problems.</p>
+
+<ul>
+<li>Take the three model structures (parallel, series, feedback) from the tutorial <a href="http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Multiple-Pool-Radiocarbon/">Multiple-pool radiocarbon models</a> and run simulations until the year 2100 using the four atmospheric radiocarbon scenarios (RCP2.6, RCP4.5, RCP6.0, and RCP8.5) described in <a href="http://www.pnas.org/content/112/31/9542.abstract">Graven et al. 2015</a>. For this you would need to bind the Hua2013 atmospheric curve with the new four different curves. Compare the behavior of radiocarbon for the different pools and the radiocarbon in respired CO<sub>2</sub> for the different scenarios.</li>
+<li>Run a new set of simulations in which all rates increase by a factor of 10% per year from the year 1990 to 2100. Compare the behavior of radiocarbon in the different pools and the respired CO<sub>2</sub>. </li>
+<li>Take the three model structures (parallel, series, feedback) from the tutorial <a href="http://www.bgc-jena.mpg.de/TEE/basics/2015/12/30/Multiple-Pool-Radiocarbon/">Multiple-pool radiocarbon models</a> and calculate the mean system ages, mean pool ages, and mean transit times for each of them. For this you will need to write the matrix \(\bf A\) and the vector \(\bf u\) for each of them and then apply the functions <em>systemAge</em> and <em>transitTime</em>.</li>
+<li>Plot the system age, pool age, and transit time density functions for each of the model structures. Compare the results for the different model structures. Discuss your results.</li>
 </ul>
 
   <div class="search-box">

@@ -34,6 +34,9 @@
 <loc>http://localhost:4000/logistics/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/modellab/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/program/</loc>
 </url>
 </urlset>

@@ -17,3 +17,7 @@ Brett Walker will give a lecture on the ocean. There will be a lecture on modeli
 <p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
 {% endfor %}
 
+
+## Modeling lab
+The modeling exercise and the assignment (problem set 3), are described in the following [page]({{site.baseurl}}/modellab/).
+
