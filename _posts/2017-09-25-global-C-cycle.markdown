@@ -17,7 +17,16 @@ On the first day of the course we will learn about basic concepts of radiocarbon
 <p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
 {% endfor %}
 
+<br>
 
 ## Radiocarbon in ecology and Earth system science
 
 You can find the introductory lecture by Susan Trumbore on this link <a href="{{ site.baseurl }}/lectures/Trumbore_Monday.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
+<br>
+
+## Problem set 1
+Now you can test what you learn on monday lectures. We prepared a problem set for you to solve. The problem and additional data to work on the solution are in the files below:
+* Problem set 1 description <a href="{{ site.baseurl }}/problemSet1/Problem_1.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+* Tree data in excel <a href="{{ site.baseurl }}/problemSet1/Problem1_tree_data.xlsx"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>, and in csv <a href="{{ site.baseurl }}/problemSet1/tree_data.csv"> <i class="fa fa-table" aria-hidden="true"></i></a>.
+
