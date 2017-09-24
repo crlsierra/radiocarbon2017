@@ -8,7 +8,7 @@ tags: [Monday, Sep 25]
 author: # Add name author (optional)
 ---
 
-On the first day of the course we will learn about basic concepts of radiocarbon and earth system science, in particular the global carbon cycle, how to report radicarbon measurements, how to date organic material, and applications for tree-ring research. 
+On the first day of the course we will learn about basic concepts of radiocarbon and earth system science, in particular the global carbon cycle, how to report radicarbon measurements, how to date organic material, and applications for tree-ring research.
 
 ## Day schedule
 
@@ -18,3 +18,6 @@ On the first day of the course we will learn about basic concepts of radiocarbon
 {% endfor %}
 
 
+## Radiocarbon in ecology and Earth system science
+
+You can find the introductory lecture by Susan Trumbore on this link <a href="{{ site.baseurl }}/lectures/Trumbore_Monday.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
