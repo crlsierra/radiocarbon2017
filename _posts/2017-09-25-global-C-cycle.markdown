@@ -23,6 +23,9 @@ On the first day of the course we will learn about basic concepts of radiocarbon
 
 You can find the introductory lecture by Susan Trumbore on this link <a href="{{ site.baseurl }}/lectures/Trumbore_Monday.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 
+## Radiocarbon nomenclature
+You can find the lecture on radiocarbon nomenclature by Xiomei Xu here <a href="{{ site.baseurl }}/lectures/Xu_Nomenclature.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
 <br>
 
 ## Lab groups
