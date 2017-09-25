@@ -29,7 +29,8 @@ You can find the lecture on radiocarbon nomenclature by Xiomei Xu here <a href="
 ## Accelerator Mass Spectrometry
 The pdf of the lecture can be downloaded from this link <a href="{{ site.baseurl }}/lectures/Steinhof_AMS.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 
-
+## Tree rings
+The lecture on tree rings can be found here <a href="{{ site.baseurl }}/lectures/Wacker_Tree_rings.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <br>
 
