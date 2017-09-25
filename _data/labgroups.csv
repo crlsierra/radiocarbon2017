@@ -1,25 +1,1 @@
-"","name","surname","affil","position","Country","Group"
-"1","Kari","Finstad","Lawrence Livermore National Lab","postdoc","USA",1
-"2","Haijun","Peng","Chinese Academy of Sciences","postdoc","China",2
-"4","Bezaye","Tessema","University of New England","phd","Australia",3
-"5","Carme","Estruch","EEZA-CSIC","phd","Spain",4
-"6","Tamas","Varga","Hungarian Academy of Sciences","assistant research fellow","Hungary",1
-"8","Melissa","Morcote-Martinez","University of Bolzano ","master","Italy",2
-"11","Paula","Zermeno","Michigan Technological University-USDA Forest Service","Laboratory Manager","USA",3
-"14","Kita","Macario ","Universidade Federal Fluminense ","postdoc","Brazil",4
-"15","Eduardo ","Queiroz-Alves ","University of Oxford ","phd","UK",1
-"16","Sanjoy","Kumar","Indian Institute of Science, Bangalore","postdoc","India",2
-"18","Oliver","Sonnentag","University of Montreal","postdoc","Canada",3
-"20","Babatunde","Adebo","Lead City University Ibadan","postdoc","Nigeria",4
-"22","Felipe-Andres ","Aburto-Guerrero","Universidad de Concepcion","postdoc","Chile",1
-"23","Ruben","Aleman","Oregon State University","master","USA",2
-"25","Sanna","Piilo","University of Helsinki","phd","Finland",3
-"26","Renata","Magalhaes-Jou","Universidade Federal Fluminense","phd","Brazil",4
-"27","Bruno","Bazzoni","University of Buenos Aires","phd","Argentina",1
-"28","Hasan","Akhtar","National University of Singapore","phd","Singapore",2
-"30","Maikel","Diaz-Castro","Havana University","postdoc","Cuba",3
-"31","Nina","Zhang","Lawrence Livermore National Lab","phd","USA",4
-"32","Caroline","Welte","ETH Zurich","postdoc","Switzerland",1
-"33","Melissa-Sophia","Schwab","ETH Zurich","phd","Switzerland",2
-"34","Marcel","Bliedtner","FSU-Jena","phd","Germany",3
-"35","Lucas","Bittner","FSU-Jena","phd","Germany",4
+,name,surname,affil,position,Country,Group,Color1,Kari,Finstad,Lawrence Livermore National Lab,postdoc,USA,1,Red2,Haijun,Peng,Chinese Academy of Sciences,postdoc,China,2,Green4,Bezaye,Tessema,University of New England,phd,Australia,3,Blue5,Carme,Estruch,EEZA-CSIC,phd,Spain,4,Yellow6,Tamas,Varga,Hungarian Academy of Sciences,assistant research fellow,Hungary,1,Red8,Melissa,Morcote-Martinez,University of Bolzano ,master,Italy,2,Green11,Paula,Zermeno,Michigan Technological University-USDA Forest Service,Laboratory Manager,USA,3,Blue14,Kita,Macario ,Universidade Federal Fluminense ,postdoc,Brazil,4,Yellow15,Eduardo ,Queiroz-Alves ,University of Oxford ,phd,UK,1,Red16,Sanjoy,Kumar,"Indian Institute of Science, Bangalore",postdoc,India,2,Green18,Oliver,Sonnentag,University of Montreal,postdoc,Canada,3,Blue20,Babatunde,Adebo,Lead City University Ibadan,postdoc,Nigeria,4,Yellow22,Felipe-Andres ,Aburto-Guerrero,Universidad de Concepcion,postdoc,Chile,1,Red23,Ruben,Aleman,Oregon State University,master,USA,2,Green25,Sanna,Piilo,University of Helsinki,phd,Finland,3,Blue26,Renata,Magalhaes-Jou,Universidade Federal Fluminense,phd,Brazil,4,Yellow27,Bruno,Bazzoni,University of Buenos Aires,phd,Argentina,1,Red28,Hasan,Akhtar,National University of Singapore,phd,Singapore,2,Green30,Maikel,Diaz-Castro,Havana University,postdoc,Cuba,3,Blue31,Nina,Zhang,Lawrence Livermore National Lab,phd,USA,4,Yellow32,Caroline,Welte,ETH Zurich,postdoc,Switzerland,1,Red33,Melissa-Sophia,Schwab,ETH Zurich,phd,Switzerland,2,Green34,Marcel,Bliedtner,FSU-Jena,phd,Germany,3,Blue35,Lucas,Bittner,FSU-Jena,phd,Germany,4,Yellow

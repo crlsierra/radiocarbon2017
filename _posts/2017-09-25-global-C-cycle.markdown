@@ -25,6 +25,15 @@ You can find the introductory lecture by Susan Trumbore on this link <a href="{{
 
 <br>
 
+## Lab groups
+Here's the assignment of the lab groups:
+* Accelerator tour lab: Red group
+* Gas and soil sampling: Green group
+* Combustion lab: Blue group
+* Sample preparation, HPLC and GC prep: Yellow group
+
+<br>
+
 ## Problem set 1
 Now you can test what you learn on monday lectures. We prepared a problem set for you to solve. The problem and additional data to work on the solution are in the files below:
 * Problem set 1 description <a href="{{ site.baseurl }}/problemSet1/Problem_1.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
