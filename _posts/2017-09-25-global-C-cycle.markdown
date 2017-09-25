@@ -19,18 +19,15 @@ On the first day of the course we will learn about basic concepts of radiocarbon
 
 <br>
 
-## Radiocarbon in ecology and Earth system science
+## Lectures
+You can find all lectures from the day in the links below
 
-You can find the introductory lecture by Susan Trumbore on this link <a href="{{ site.baseurl }}/lectures/Trumbore_Monday.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
-
-## Radiocarbon nomenclature
-You can find the lecture on radiocarbon nomenclature by Xiomei Xu here <a href="{{ site.baseurl }}/lectures/Xu_Nomenclature.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
-
-## Accelerator Mass Spectrometry
-The pdf of the lecture can be downloaded from this link <a href="{{ site.baseurl }}/lectures/Steinhof_AMS.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
-
-## Tree rings
-The lecture on tree rings can be found here <a href="{{ site.baseurl }}/lectures/Wacker_Tree_rings.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+| Lecture name | Instructor | Download link |
+|:--------------|:------------:|:---------------:|
+|Radiocarbon in ecology and Earth system science | Susan Trumbore | <a href="{{ site.baseurl }}/lectures/Trumbore_Monday.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a> |
+| Radiocarbon nomenclature | Xiaomei Xu | <a href="{{ site.baseurl }}/lectures/Xu_Nomenclature.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a> |
+| Acceleretor Mass Spectrometry | Axel Steinhoff | <a href="{{ site.baseurl }}/lectures/Steinhof_AMS.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a> |
+| Tree rings | Lukas Wacker | <a href="{{ site.baseurl }}/lectures/Wacker_Tree_rings.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a> |
 
 <br>
 
