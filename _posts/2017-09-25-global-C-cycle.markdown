@@ -26,6 +26,11 @@ You can find the introductory lecture by Susan Trumbore on this link <a href="{{
 ## Radiocarbon nomenclature
 You can find the lecture on radiocarbon nomenclature by Xiomei Xu here <a href="{{ site.baseurl }}/lectures/Xu_Nomenclature.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 
+## Accelerator Mass Spectrometry
+The pdf of the lecture can be downloaded from this link <a href="{{ site.baseurl }}/lectures/Steinhof_AMS.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
+
+
 <br>
 
 ## Lab groups
