@@ -45,3 +45,5 @@ Now you can test what you learn on monday lectures. We prepared a problem set fo
 * Problem set 1 description <a href="{{ site.baseurl }}/problemSet1/Problem_1.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 * Tree data in excel <a href="{{ site.baseurl }}/problemSet1/Problem1_tree_data.xlsx"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>, and in csv <a href="{{ site.baseurl }}/problemSet1/tree_data.csv"> <i class="fa fa-table" aria-hidden="true"></i></a>.
 
+* Answers to problem set 1: <a href="{{ site.baseurl }}/problemSet1/Problem_1_ans.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
