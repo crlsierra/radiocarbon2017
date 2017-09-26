@@ -27,4 +27,5 @@ You can obtain the slides from today's lectures in the following links
 | Lecture name | Instructor | Link |
 |:-------------|:----------:|:------:|
 | Radiocarbon in the land system | Claudia Czimczik | <a href="{{ site.baseurl }}/lectures/Czimczik_Land.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>  |
+| Tree reserves | Jan Muhr | <a href="{{ site.baseurl }}/lectures/Muhr_tree_reserves.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a> |
 | Dating | Axel Steinhof | |
