@@ -18,3 +18,13 @@ In the afternoon and in the evening students will present their own research.
 <p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
 {% endfor %}
 
+
+<br>
+
+## Lecture slides
+You can obtain the slides from today's lectures in the following links
+
+| Lecture name | Instructor | Link |
+|:-------------|:----------:|:------:|
+| Radiocarbon in the land system | Claudia Czimczik | <a href="{{ site.baseurl }}/lectures/Czimczik_Land.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>  |
+| Dating | Axel Steinhof | |

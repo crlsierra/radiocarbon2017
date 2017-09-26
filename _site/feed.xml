@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-25T16:04:52+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-26T11:02:21+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
 At the end of the day, we will hand out certificates.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-schedule&quot;&gt;Day schedule&lt;/h2&gt;
@@ -82,7 +82,34 @@ In the afternoon and in the evening students will present their own research.&lt
 
 &lt;p&gt;18:00-19:00, Dinner at the institute  &lt;/p&gt;
 
-&lt;p&gt;20:00-22:00, Student presentations (5 minutes each, including questions)  &lt;/p&gt;</content><author><name>Max Planck Institute for Biogeochemistry</name></author><category term="Tuesday" /><category term="Sep 26" /><summary>Claudia Czimczik will give a lecture on the terrestrial biosphere, and Axel Steinhof will talk about the AMS method. 
+&lt;p&gt;20:00-22:00, Student presentations (5 minutes each, including questions)  &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lecture-slides&quot;&gt;Lecture slides&lt;/h2&gt;
+&lt;p&gt;You can obtain the slides from today’s lectures in the following links&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Lecture name&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Instructor&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Radiocarbon in the land system&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Claudia Czimczik&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;/lectures/Czimczik_Land.pdf&quot;&gt; &lt;i class=&quot;fa fa-file&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Dating&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Axel Steinhof&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Max Planck Institute for Biogeochemistry</name></author><category term="Tuesday" /><category term="Sep 26" /><summary>Claudia Czimczik will give a lecture on the terrestrial biosphere, and Axel Steinhof will talk about the AMS method. 
 In the afternoon and in the evening students will present their own research.</summary></entry><entry><title>Radiocarbon and the global C cycle</title><link href="http://localhost:4000/2017/08/25/global-C-cycle.html" rel="alternate" type="text/html" title="Radiocarbon and the global C cycle" /><published>2017-08-25T12:32:20+02:00</published><updated>2017-08-25T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/25/global-C-cycle</id><content type="html" xml:base="http://localhost:4000/2017/08/25/global-C-cycle.html">&lt;p&gt;On the first day of the course we will learn about basic concepts of radiocarbon and earth system science, in particular the global carbon cycle, how to report radicarbon measurements, how to date organic material, and applications for tree-ring research.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-schedule&quot;&gt;Day schedule&lt;/h2&gt;
