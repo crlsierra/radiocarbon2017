@@ -17,4 +17,9 @@ Heather Graven will join us today for two lectures on atmospheric radiocarbon. W
 <p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
 {% endfor %}
 
+## Problem set 2
+Here is the description and the datasets for solving problem set 2
+* Problem set description <a href="{{ site.baseurl }}/problemSet2/Problems_2.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+* Data set on diurnal 14C in excel <a href="{{ site.baseurl }}/problemSet2/Diurnal_14C_short_course.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
+* Isoerror spreadsheet <a href="{{ site.baseurl }}/problemSet2/isoerror_spreadsheet.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
 
