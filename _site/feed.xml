@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-27T11:38:37+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-27T11:51:30+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
 At the end of the day, we will hand out certificates.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-schedule&quot;&gt;Day schedule&lt;/h2&gt;
@@ -65,6 +65,25 @@ At the end of the day, we will hand out certificates.</summary></entry><entry><t
   &lt;li&gt;Problem set description &lt;a href=&quot;/problemSet2/Problems_2.pdf&quot;&gt; &lt;i class=&quot;fa fa-file&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Data set on diurnal 14C in excel &lt;a href=&quot;/problemSet2/Diurnal_14C_short_course.xls&quot;&gt; &lt;i class=&quot;fa fa-file-excel-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Isoerror spreadsheet &lt;a href=&quot;/problemSet2/isoerror_spreadsheet.xls&quot;&gt; &lt;i class=&quot;fa fa-file-excel-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practical-labs&quot;&gt;Practical labs&lt;/h2&gt;
+&lt;p&gt;We have today two time blocks for the practical labs. Here is the assignment according to badge colors:&lt;/p&gt;
+
+&lt;h3 id=&quot;session-1-from-1330-to-1500&quot;&gt;Session 1 from 13:30 to 15:00&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Accelerator tour lab: Yellow group&lt;/li&gt;
+  &lt;li&gt;Gas and soil sampling: Red group&lt;/li&gt;
+  &lt;li&gt;Combustion lab: Green group&lt;/li&gt;
+  &lt;li&gt;Sample preparation, HPLC and GC prep: Blue group&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;session-2-from-1530-to-1700&quot;&gt;Session 2 from 15:30 to 17:00&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Accelerator tour lab: Blue group&lt;/li&gt;
+  &lt;li&gt;Gas and soil sampling: Yellow group&lt;/li&gt;
+  &lt;li&gt;Combustion lab: Red group&lt;/li&gt;
+  &lt;li&gt;Sample preparation, HPLC and GC prep: Green group&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Max Planck Institute for Biogeochemistry</name></author><category term="Wednesday" /><category term="Sep 27" /><summary>Heather Graven will join us today for two lectures on atmospheric radiocarbon. We will work on problems sets and on the practical labs.</summary></entry><entry><title>The land system</title><link href="http://localhost:4000/2017/08/26/the-land-system.html" rel="alternate" type="text/html" title="The land system" /><published>2017-08-26T12:32:20+02:00</published><updated>2017-08-26T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/26/the-land-system</id><content type="html" xml:base="http://localhost:4000/2017/08/26/the-land-system.html">&lt;p&gt;Claudia Czimczik will give a lecture on the terrestrial biosphere, and Axel Steinhof will talk about the AMS method. 
 In the afternoon and in the evening students will present their own research.&lt;/p&gt;
 

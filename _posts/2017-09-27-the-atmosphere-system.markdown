@@ -23,3 +23,17 @@ Here is the description and the datasets for solving problem set 2
 * Data set on diurnal 14C in excel <a href="{{ site.baseurl }}/problemSet2/Diurnal_14C_short_course.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
 * Isoerror spreadsheet <a href="{{ site.baseurl }}/problemSet2/isoerror_spreadsheet.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
 
+## Practical labs
+We have today two time blocks for the practical labs. Here is the assignment according to badge colors:
+
+### Session 1 from 13:30 to 15:00
+* Accelerator tour lab: Yellow group
+* Gas and soil sampling: Red group
+* Combustion lab: Green group
+* Sample preparation, HPLC and GC prep: Blue group
+
+### Session 2 from 15:30 to 17:00
+* Accelerator tour lab: Blue group
+* Gas and soil sampling: Yellow group
+* Combustion lab: Red group
+* Sample preparation, HPLC and GC prep: Green group
