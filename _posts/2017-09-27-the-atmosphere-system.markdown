@@ -31,6 +31,7 @@ Here is the description and the datasets for solving problem set 2
 * Problem set description <a href="{{ site.baseurl }}/problemSet2/Problems_2.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 * Data set on diurnal 14C in excel <a href="{{ site.baseurl }}/problemSet2/Diurnal_14C_short_course.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
 * Isoerror spreadsheet <a href="{{ site.baseurl }}/problemSet2/isoerror_spreadsheet.xls"> <i class="fa fa-file-excel-o" aria-hidden="true"></i></a>
+* Answers problem set 2 <a href="{{ site.baseurl }}/problemSet2/Problems_2_answers.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <br>
 
