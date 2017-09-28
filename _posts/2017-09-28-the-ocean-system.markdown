@@ -21,3 +21,11 @@ Brett Walker will give a lecture on the ocean. There will be a lecture on modeli
 ## Modeling lab
 The modeling exercise and the assignment (problem set 3), are described in the following [page]({{site.baseurl}}/modellab/).
 
+## Practical lab
+The assignment of groups for today's labs is:
+* Accelerator tour lab: Green group
+* Gas and soil sampling: Blue group
+* Combustion lab: Yellow group
+* Sample preparation, HPLC and GC prep: Red group
+~
+
