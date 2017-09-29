@@ -21,6 +21,8 @@ Brett Walker will give a lecture on the ocean. There will be a lecture on modeli
 ## Lectures
 * The lecture by Brett Walker can be found here <a href="{{ site.baseurl }}/lectures/Walker_Oceans.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
 * The modeling lecture can be found here <a href="{{ site.baseurl }}/lectures/Sierra_Modeling.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+* The talk by Marion Schrumpf on soils: <a href="{{ site.baseurl }}/lectures/Schrumpf_soils.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
 
 ## Modeling lab
 The modeling exercise and the assignment (problem set 3), are described in the following [page]({{site.baseurl}}/modellab/).
