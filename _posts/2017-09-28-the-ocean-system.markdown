@@ -25,6 +25,8 @@ Brett Walker will give a lecture on the ocean. There will be a lecture on modeli
 ## Modeling lab
 The modeling exercise and the assignment (problem set 3), are described in the following [page]({{site.baseurl}}/modellab/).
 
+The solution to the lab is here <a href="{{ site.baseurl }}/assets/data/labSolution.R"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
 ## Practical lab
 The assignment of groups for today's labs is:
 * Accelerator tour lab: Green group

@@ -1,4 +1,4 @@
-
+library(SoilR)
 rcps=read.csv("~/Repos/radiocarbon2017/assets/data/C14RCPscenarios.csv")
 
 matplot(rcps[,1],rcps[,2:5],type="l",lty=1,col=1:4, xlab="Year", ylab="Atmospheric radiocarbon in Delta14C (per mil)", bty="n")
@@ -240,6 +240,7 @@ par(mfrow=c(1,1))
 ####
 up=matrix(c(0.6,0.2,0.2),ncol=1)
 u=matrix(c(1,0,0), ncol=1)
+
 Ap=diag(-k)
 As=Ap; As[2,1]=a21; As[3,2]=a32
 Af=As; Af[1,2]=a12; Af[2,3]=a23
