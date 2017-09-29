@@ -18,6 +18,12 @@ At the end of the day, we will hand out certificates.
 <p>{{block.Time}}, {{block.Title}} {% if block.Instructor %} | <b>{{block.Instructor}}</b> {% endif %} </p>
 {% endfor %}
 
+<br>
+
+## Lectures
+You can find here today's lectures:
+* DOC in the Gulf of Mexico: <a href="{{ site.baseurl }}/lectures/Walker_GOM.pdf"> <i class="fa fa-file" aria-hidden="true"></i></a>
+
 
 ## Radioactive party
 The course is over and it's time to have some drinks and relax. 
