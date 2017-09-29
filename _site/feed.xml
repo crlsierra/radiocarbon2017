@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-29T08:58:47+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-29T10:36:58+02:00</updated><id>http://localhost:4000/</id><title>Radiocarbon in the Earth System 2017</title><subtitle>Information and resources about the short course Radiocarbon in the Earth System 2017</subtitle><author><name>Max Planck Institute for Biogeochemistry</name></author><entry><title>Paleo environments and modeling</title><link href="http://localhost:4000/2017/08/29/paleo.html" rel="alternate" type="text/html" title="Paleo environments and modeling" /><published>2017-08-29T12:32:20+02:00</published><updated>2017-08-29T12:32:20+02:00</updated><id>http://localhost:4000/2017/08/29/paleo</id><content type="html" xml:base="http://localhost:4000/2017/08/29/paleo.html">&lt;p&gt;We will have lectures on paleo applications, and time to discuss practical problems with the instructors.
 At the end of the day, we will hand out certificates.&lt;/p&gt;
 
 &lt;h2 id=&quot;day-schedule&quot;&gt;Day schedule&lt;/h2&gt;
@@ -39,7 +39,10 @@ At the end of the day, we will hand out certificates.</summary></entry><entry><t
 &lt;p&gt;15:30-17:00, Practical lab  | &lt;b&gt;Axel Steinhof, Jan Muhr, Valerie Schwab, Susan Trumbore&lt;/b&gt;  &lt;/p&gt;
 
 &lt;h2 id=&quot;lectures&quot;&gt;Lectures&lt;/h2&gt;
-&lt;p&gt;The lecture by Brett Walker can be found here &lt;a href=&quot;/lectures/Walker_Oceans.pdf&quot;&gt; &lt;i class=&quot;fa fa-file&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The lecture by Brett Walker can be found here &lt;a href=&quot;/lectures/Walker_Oceans.pdf&quot;&gt; &lt;i class=&quot;fa fa-file&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The modeling lecture can be found here &lt;a href=&quot;/lectures/Sierra_Modeling.pdf&quot;&gt; &lt;i class=&quot;fa fa-file&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;modeling-lab&quot;&gt;Modeling lab&lt;/h2&gt;
 &lt;p&gt;The modeling exercise and the assignment (problem set 3), are described in the following &lt;a href=&quot;/modellab/&quot;&gt;page&lt;/a&gt;.&lt;/p&gt;
