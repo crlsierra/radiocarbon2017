@@ -1,0 +1,60 @@
+---
+layout: home-page
+title: Participants
+permalink: /participants/
+---
+
+<h2> Participants of the 2017 course </h2>
+
+{% assign sorted_names = site.data.participants | sort: 'surname', 'first' %}
+{% for person in sorted_names %}
+
+<div class="small-wrapper">
+  <div class="about-container">
+    <section class="about-header">
+      <p class="subtitle">{{person.name}} {{person.surname}}</p>
+      <p class="subtitle">{{person.affil}}</p>
+    </section>
+    <section class="about-body">
+      <ul class="contact-list">
+      {% if person.email %}
+        <li class="email"><a href="mailto:{{person.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
+
+      {% if person.phone %}
+        <li class="phone"><a href="tel:{{person.phone}}"><i class="fa fa-phone"></i></a></li>
+      {% endif %}
+
+      {% if person.website %}
+        <li class="website"><a href="http://{{person.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
+      {% endif %}
+
+      {% if person.linkedin %}
+        <li class="linkedin"><a href="https://in.linkedin.com/in/{{person.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+      {% endif %}
+
+      {% if person.github %}
+        <li class="github"><a href="http://github.com/{{person.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+      {% endif %}
+
+      {% if person.twitter %}
+        <li class="twitter"><a href="https://twitter.com/{{person.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      {% endif %}
+
+      {% if person.facebook %}
+        <li class="facebook"><a href="https://facebook.com/{{person.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+      {% endif %}
+
+      {% if person.instagram %}
+        <li class="instagram"><a href="https://instagram.com/{{person.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      {% endif %}
+
+      {% if person.pinterest %}
+        <li class="pinterest"><a href="https://pinterest.com/{{person.pinterest}}" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+      {% endif %}
+      </ul>
+    </section> <!-- End About Body-->
+  </div> <!-- End About Container -->
+</div> <!-- End Small Wrapper -->
+
+{% endfor %}

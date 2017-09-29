@@ -37,6 +37,9 @@
 <loc>http://localhost:4000/modellab/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/participants/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/program/</loc>
 </url>
 <url>

@@ -1,0 +1,252 @@
+- name: Kari
+  surname: Finstad
+  salutation: Dr.
+  email: finstad1@llnl.gov
+  affil: Lawrence Livermore National Lab
+  position: postdoc
+  Country: USA
+- name: Haijun
+  surname: Peng
+  salutation: Dr.
+  email: penghaijun@mail.gyig.ac.cn
+  affil: Chinese Academy of Sciences
+  position: postdoc
+  Country: China
+- name: Naixin
+  surname: Fan
+  salutation: Mr.
+  email: nfan@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Bezaye
+  surname: Tessema
+  salutation: Ms.
+  email: btessema@myune.edu.au
+  affil: University of New England
+  position: phd
+  Country: Australia
+- name: Carme
+  surname: Estruch
+  salutation: Ms.
+  email: c.estruch.p@gmail.com
+  affil: EEZA-CSIC
+  position: phd
+  Country: Spain
+- name: Tamas
+  surname: Varga
+  salutation: Dr.
+  email: varga.tamas@atomki.mta.hu
+  affil: Hungarian Academy of Sciences
+  position: assistant research fellow
+  Country: Hungary
+- name: Sandra
+  surname: Boelck
+  salutation: Ms.
+  email: sboelck@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Melissa
+  surname: Morcote-Martinez
+  salutation: Ms.
+  email: melissa.morcote@gmail.com
+  affil: 'University of Bolzano '
+  position: master
+  Country: Italy
+- name: Sayan
+  surname: Mukhopadhaya
+  salutation: Mr.
+  email: smukho@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Kasun
+  surname: Gayantha
+  salutation: Mr.
+  email: kgayan@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Paula
+  surname: Zermeno
+  salutation: Ms.
+  email: pzermeno@mtu.edu
+  affil: Michigan Technological University-USDA Forest Service
+  position: Laboratory Manager
+  Country: USA
+- name: Yan
+  surname: Li
+  salutation: Dr.
+  email: yli@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: postdoc
+  Country: Germany
+- name: Jeffrey
+  surname: Beem-Miller
+  salutation: Mr.
+  email: jbeemmil@gmail.com
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Kita
+  surname: 'Macario '
+  salutation: Dr.
+  email: kitamacario@gmail.com
+  affil: 'Universidade Federal Fluminense '
+  position: postdoc
+  Country: Brazil
+- name: 'Eduardo '
+  surname: 'Queiroz-Alves '
+  salutation: Mr.
+  email: qa.eduardo@gmail.com
+  affil: 'University of Oxford '
+  position: phd
+  Country: UK
+- name: Sanjoy
+  surname: Kumar
+  salutation: Dr.
+  email: skumarism@gmail.com
+  affil: Indian Institute of Science, Bangalore
+  position: postdoc
+  Country: India
+- name: Lucia
+  surname: Eder
+  salutation: Ms.
+  email: leder@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Oliver
+  surname: Sonnentag
+  salutation: Dr.
+  email: oliver.sonnentag@umontreal.ca
+  affil: University of Montreal
+  position: postdoc
+  Country: Canada
+- name: Antonios
+  surname: Apostolakis
+  salutation: Mr.
+  email: a.e.apostolakis@gmail.com
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Babatunde
+  surname: Adebo
+  salutation: Dr.
+  email: adeboistalking@yahoo.com
+  affil: Lead City University Ibadan
+  position: postdoc
+  Country: Nigeria
+- name: John
+  surname: Kim
+  salutation: Dr.
+  email: jkim@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: postdoc
+  Country: Germany
+- name: 'Felipe-Andres '
+  surname: Aburto-Guerrero
+  salutation: Dr.
+  email: feaburto@udec.cl
+  affil: Universidad de Concepcion
+  position: postdoc
+  Country: Chile
+- name: Ruben
+  surname: Aleman
+  salutation: Mr.
+  email: alemanr@oregonstate.edu
+  affil: Oregon State University
+  position: master
+  Country: USA
+- name: Carsten
+  surname: Simon
+  salutation: Mr.
+  email: csimon@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Sanna
+  surname: Piilo
+  salutation: Ms.
+  email: sanna.piilo@helsinki.fi
+  affil: University of Helsinki
+  position: phd
+  Country: Finland
+- name: Renata
+  surname: Magalhaes-Jou
+  salutation: Ms.
+  email: renatajou@gmail.com
+  affil: Universidade Federal Fluminense
+  position: phd
+  Country: Brazil
+- name: Bruno
+  surname: Bazzoni
+  salutation: Mr.
+  email: BBAZZONI@AGRO.UBA.AR
+  affil: University of Buenos Aires
+  position: phd
+  Country: Argentina
+- name: Hasan
+  surname: Akhtar
+  salutation: Mr.
+  email: hasanakhtar@u.nus.edu
+  affil: National University of Singapore
+  position: phd
+  Country: Singapore
+- name: Rachel
+  surname: Akinyede
+  salutation: Ms.
+  email: rakin@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: phd
+  Country: Germany
+- name: Maikel
+  surname: Diaz-Castro
+  salutation: Dr.
+  email: maikel@if.uff.br
+  affil: Havana University
+  position: postdoc
+  Country: Cuba
+- name: Nina
+  surname: Zhang
+  salutation: Ms.
+  email: ni.zhang@yahoo.com
+  affil: Lawrence Livermore National Lab
+  position: phd
+  Country: USA
+- name: Caroline
+  surname: Welte
+  salutation: Dr.
+  email: cwelte@phys.ethz.ch
+  affil: ETH Zurich
+  position: postdoc
+  Country: Switzerland
+- name: Melissa-Sophia
+  surname: Schwab
+  salutation: Ms.
+  email: melissa.schwab@erdw.ethz.ch
+  affil: ETH Zurich
+  position: phd
+  Country: Switzerland
+- name: Marcel
+  surname: Bliedtner
+  salutation: Mr.
+  email: marcel.bliedtner@giub.unibe.ch
+  affil: FSU-Jena
+  position: phd
+  Country: Germany
+- name: Lucas
+  surname: Bittner
+  salutation: Mr.
+  email: lucasbittner@yahoo.de
+  affil: FSU-Jena
+  position: phd
+  Country: Germany
+- name: Alison
+  surname: Hoyt
+  salutation: Dr.
+  email: ahoyt@bgc-jena.mpg.de
+  affil: MPI-BGC
+  position: postdoc
+  Country: Germany

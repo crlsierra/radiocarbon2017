@@ -18,3 +18,5 @@ paste0(ptcp$email, sep=";", collapse = " ")
 extrl=ptcp[ptcp$affil!="MPI-BGC",c(1,2,5,6,7)]
 write.csv(data.frame(extrl,Group=rep(1:4,6)), "~/Repos/radiocarbon2017/_data/labgroups.csv")
 
+ptyml=as.yaml(ptcp, column.major = FALSE)
+write.table(ptyml,file="~/Repos/radiocarbon2017/_data/participants.yml")
